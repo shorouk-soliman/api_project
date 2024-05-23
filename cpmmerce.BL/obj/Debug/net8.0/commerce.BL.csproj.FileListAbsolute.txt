@@ -1,0 +1,15 @@
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\bin\Debug\net8.0\commerce.BL.deps.json
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\bin\Debug\net8.0\commerce.BL.dll
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\bin\Debug\net8.0\commerce.BL.pdb
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\bin\Debug\net8.0\commerce.DAL.dll
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\bin\Debug\net8.0\commerce.DAL.pdb
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\obj\Debug\net8.0\commerce.BL.csproj.AssemblyReference.cache
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\obj\Debug\net8.0\commerce.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\obj\Debug\net8.0\commerce.BL.AssemblyInfoInputs.cache
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\obj\Debug\net8.0\commerce.BL.AssemblyInfo.cs
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\obj\Debug\net8.0\commerce.BL.csproj.CoreCompileInputs.cache
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\obj\Debug\net8.0\commerce.5CECDE7C.Up2Date
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\obj\Debug\net8.0\commerce.BL.dll
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\obj\Debug\net8.0\refint\commerce.BL.dll
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\obj\Debug\net8.0\commerce.BL.pdb
+C:\Users\DAR-MG\source\repos\commerce.Api\cpmmerce.BL\obj\Debug\net8.0\ref\commerce.BL.dll

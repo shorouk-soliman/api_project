@@ -1,0 +1,14 @@
+C:\Users\DAR-MG\source\repos\commerce.Api\commerce.DAL\bin\Debug\net8.0\commerce.DAL.deps.json
+C:\Users\DAR-MG\source\repos\commerce.Api\commerce.DAL\bin\Debug\net8.0\commerce.DAL.runtimeconfig.json
+C:\Users\DAR-MG\source\repos\commerce.Api\commerce.DAL\bin\Debug\net8.0\commerce.DAL.dll
+C:\Users\DAR-MG\source\repos\commerce.Api\commerce.DAL\bin\Debug\net8.0\commerce.DAL.pdb
+C:\Users\DAR-MG\source\repos\commerce.Api\commerce.DAL\obj\Debug\net8.0\commerce.DAL.csproj.AssemblyReference.cache
+C:\Users\DAR-MG\source\repos\commerce.Api\commerce.DAL\obj\Debug\net8.0\commerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAR-MG\source\repos\commerce.Api\commerce.DAL\obj\Debug\net8.0\commerce.DAL.AssemblyInfoInputs.cache
+C:\Users\DAR-MG\source\repos\commerce.Api\commerce.DAL\obj\Debug\net8.0\commerce.DAL.AssemblyInfo.cs
+C:\Users\DAR-MG\source\repos\commerce.Api\commerce.DAL\obj\Debug\net8.0\commerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\DAR-MG\source\repos\commerce.Api\commerce.DAL\obj\Debug\net8.0\commerce.DAL.dll
+C:\Users\DAR-MG\source\repos\commerce.Api\commerce.DAL\obj\Debug\net8.0\refint\commerce.DAL.dll
+C:\Users\DAR-MG\source\repos\commerce.Api\commerce.DAL\obj\Debug\net8.0\commerce.DAL.pdb
+C:\Users\DAR-MG\source\repos\commerce.Api\commerce.DAL\obj\Debug\net8.0\commerce.DAL.genruntimeconfig.cache
+C:\Users\DAR-MG\source\repos\commerce.Api\commerce.DAL\obj\Debug\net8.0\ref\commerce.DAL.dll

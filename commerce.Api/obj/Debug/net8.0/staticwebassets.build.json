@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "btDMDT1dm4aEHwy26UKZUNw7C520Pzu7H8XmNqckTOY=",
+  "Source": "commerce.Api",
+  "BasePath": "_content/commerce.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
