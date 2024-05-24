@@ -111,5 +111,5 @@ Push to the branch (git push origin feature/YourFeature).
 Open a pull request.
 Contact
 Name: Shorouk Soliman
-Email: shorooukabdelhamied4@gmail.com
+Email: shoroukabdelhamied4@gmail.com
 GitHub: https://github.com/shorouk-soliman
