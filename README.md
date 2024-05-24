@@ -98,30 +98,8 @@ Copy code
 dotnet ef database update
 Run the backend server:
 dotnet run
-API Endpoints
-Product Endpoints
-GET /api/products: Retrieve a list of products
-GET /api/products/{id}: Retrieve a specific product by ID
-POST /api/products: Create a new product
-PUT /api/products/{id}: Update a product by ID
-DELETE /api/products/{id}: Delete a product by ID
-Category Endpoints
-GET /api/categories: Retrieve a list of categories
-GET /api/categories/{id}: Retrieve a specific category by ID
-POST /api/categories: Create a new category
-PUT /api/categories/{id}: Update a category by ID
-DELETE /api/categories/{id}: Delete a category by ID
-Cart Endpoints
-GET /api/cart: Retrieve the user's cart
-POST /api/cart: Add an item to the cart
-PUT /api/cart: Edit an item in the cart
-DELETE /api/cart/{itemId}: Remove an item from the cart
-Order Endpoints
-GET /api/orders: Retrieve user orders
-POST /api/orders: Place an order
-User Endpoints
-POST /api/users/Register: Register a new user
-POST /api/users/Login: Authenticate a user and retrieve a token
+
+
 API Documentation
 The API documentation is available via Swagger. Once the backend server is running, navigate to http://localhost:5000/swagger.
 
